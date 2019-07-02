@@ -1,0 +1,6 @@
+package Task2;
+
+public enum RoleType
+{
+    SOLDIER, ENGINEER, DOCTOR, COOKER, BUILDER, PILOT, TROUBLESHOOTER, SINGER, DESIGNER;
+}
